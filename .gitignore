@@ -1,0 +1,20 @@
+# Java build files
+target/
+*.class
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+
+# OS metadata
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Docker artifacts
+*.jar
